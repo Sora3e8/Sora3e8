@@ -1,4 +1,4 @@
-![Header](./github-header-banner.png)
+![Header](./github-header-banner-v2.png)
 
 I'm a self taught programmer, Science and Open Source enthusiast.
 My main focus is on low level system optimization, machine learning, signal analysis and practical use of theoretical physics in combination with signal analysis.
